@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋, I'm Leisan</h2>
-<h3 align="left">An ex-doctor of diagnostics who is trying to turn into a data analyst</h3>
+<h3 align="left">An ex-doctor of diagnostics who became a data analyst</h3>
 
 - 📝 I regularly write articles on [my blog](https://t.me/leisan20112blog)
-
-- 📫 How to reach me on [Telegram](https://t.me/leisan20112) or by [dr.leisan.shakirova@gmail.com](mailto://dr.leisan.shakirova@gmail.com)
 
 - <a href="https://public.tableau.com/app/profile/leisan.khilazheva/vizzes" target="_blank"><img src="https://public.tableau.com/favicon.ico" width="16" height="16"/></a> You can see my dashboards in [Tableau](https://public.tableau.com/app/profile/leisan.khilazheva/vizzes)
 
