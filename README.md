@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leisan-khilazheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leisan-khilazheva" height="30" width="40" /></a>
+<a href="https://t.me/leisan20112" target="blank"><img align="center" src="https://t.me/favicon.ico" alt="leisan-khilazheva" height="29" width="29" /></a> <a href="https://linkedin.com/in/leisan-khilazheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leisan-khilazheva" height="30" width="40" /></a> <a href="mailto://dr.leisan.shakirova@gmail.com" target="blank"><img align="middle" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="leisan-khilazheva" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
